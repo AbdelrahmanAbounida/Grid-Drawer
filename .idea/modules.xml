@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GridDrawer.iml" filepath="$PROJECT_DIR$/.idea/GridDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Software/Again/HotSauce/.idea/HotSauce.iml" filepath="$PROJECT_DIR$/../../../../Software/Again/HotSauce/.idea/HotSauce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Software/Again/LearnDjango/.idea/LearnDjango.iml" filepath="$PROJECT_DIR$/../../../../Software/Again/LearnDjango/.idea/LearnDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Websites/ToDoList/.idea/ToDoList.iml" filepath="$PROJECT_DIR$/../../../Websites/ToDoList/.idea/ToDoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapper/.idea/scrapper.iml" filepath="$PROJECT_DIR$/../scrapper/.idea/scrapper.iml" />
+    </modules>
+  </component>
+</project>
